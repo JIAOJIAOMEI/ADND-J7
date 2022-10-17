@@ -198,6 +198,8 @@ Each one finds a related neural network example code and implemente it with our 
 - find related neural network
 - find a way to solve imbalanced data
 - Implement the neural network you find and then make some modifications based on your appetite 
+- Training
+- Testing
 - calculate accuracy, percision and AUC
 - do some data visulization work
 
