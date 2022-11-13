@@ -6,7 +6,7 @@ open source code are used
 2. https://github.com/erdogant/clustimage
 
 conclusion until now:
-1. I tried kmeans with sklean library, but the accuray is low, accuracy = 18%.
+1. I tried kmeans with sklean library, but the accuray is low, accuracy = 18%. 200 pictures for each class are used.
 2. then I tried to extract features by pretained model resnet50, it is better, but almost very little improvement, 18.3%.
 3. I tried pretained model resnet50 + hdbscan, the result is very bad.
 4. I tried kmeans with clustimage library, it is much better than kmeans with sklearn lrbrary. But it seems like there are no improvment if grey pictures are used.
